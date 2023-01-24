@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(28, 49, 51);
+
+}
+
+.first{
+    width: 100px;
+    height: 280px;
+    width: 70%;
+    margin: auto;
+    background-color: rgb(36, 86, 94);
+}
+
+.first h1{
+    font-size: px;
+    color: white;
+    padding-left: 130px;
+    padding-top: 50px;
+}
+
+.first span{
+    font-size: 20px;
+    color: white;
+    padding-left: 130px;
+    padding-bottom: 50px;
+}
+
+.second{
+    height: 50px;
+    background-color: rgb(71, 71, 76);   
+    padding-left: 4px;
+    margin: auto;
+    width: 70%;
+
+    /* height: 47px;
+    background-color: rgb(71, 71, 76);
+    padding-left: -46px;
+    margin: auto;
+    width: 70%; */
+}
+
+.second pre{
+    font-size: 23px;
+    margin-top: -8px;
+    padding-top: 13px;
+    color: white;
+}
+
+.thirty{
+    color: white;
+    padding-left: 210px;
+    width: 300px ;
+    height: 300px;
+    
+}
+
+
+/* .span2{
+color: white;
+padding-left: 35px;
+} */
+
+.firty{
+    padding-left: 30px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    
+}
+
+
+
